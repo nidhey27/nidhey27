@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Nidhey Indurkar
 <!--- <h3 align="center">I'm a Product Engineer</h3> -->
 
-👋I'm a Product Engineer with a passion for building scalable and resilient Cloud Native applications.
+👋I'm a Software Engineer with a passion for building scalable and resilient Cloud Native applications.
 
 🌟 I'm dedicated to creating user-focused products that are reliable, easy to use, and designed to scale. I believe that engineering is not just about writing code, but also about understanding user needs and delivering value through technology.
 
